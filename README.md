@@ -42,12 +42,14 @@ AI-powered Web3 emergency donation platform.
 - Portfolio: https://hrithika-baggam.github.io/
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-![Hrithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haashh20&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haashh20&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haashh20&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haashh20&layout=compact&theme=tokyonight" />
+</p>
 
  Always learning, building, and exploring new technologies.
