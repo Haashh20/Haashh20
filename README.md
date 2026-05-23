@@ -23,7 +23,7 @@
 ## 🌷 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/hrithika-baggam
-- Portfolio: https://hrithika-baggam.github.io/
+- Portfolio:  https://hrithika-portfolio.vercel.app
 
 <br>
 
