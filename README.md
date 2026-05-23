@@ -5,13 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=24&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Explorer;React+%7C+Node.js+%7C+MongoDB;Building+Impactful+Projects" />
 </p>
-# Hi, I'm Hrithika 
 
-### Full-Stack Developer | AI Enthusiast
-
-Building intelligent and scalable web applications with modern technologies.
-
----
 
 ## About Me
 -  BTech Student
