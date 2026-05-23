@@ -53,6 +53,13 @@ AI-powered Web3 emergency donation platform.
 
 - LinkedIn: www.linkedin.com/in/hrithika-baggam
 - Portfolio: https://hrithika-baggam.github.io/
+---
+
+##  GitHub Stats
+
+![Hrithika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haashh20&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haashh20&layout=compact&theme=tokyonight)
 
 ---
 
