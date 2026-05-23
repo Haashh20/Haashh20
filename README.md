@@ -15,27 +15,11 @@
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Languages
-- Java
-- Python
-- JavaScript
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode" />
+</p>
 
 ##  Featured Projects
 
