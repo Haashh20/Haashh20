@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9f7ddc2e-7819-49d6-bf8c-25217d5514f2" />
 
 <h1 align="center">Hi 👋, I'm Hrithika</h1>
 <h3 align="center">Full-Stack Developer & AI Enthusiast</h3>
